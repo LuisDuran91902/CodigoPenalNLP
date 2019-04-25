@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Base-info >
+	<book1 category="Libro 1">
+		<book>Titulo</book>
+		<article>Articulo</article>
+		<chapter>Capitulo</chapter>
+	</book1>
+	<book2 category="Libro 2">
+		<book>Titulo</book>
+		<article>Articulo</article>
+		<chapter>Capitulo</chapter>
+	</book2>
+</Base-info>
